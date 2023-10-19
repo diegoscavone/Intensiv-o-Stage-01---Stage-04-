@@ -2,6 +2,8 @@
 <img src="./assets/preview.jpg">
 <h1>Explore sem limites</h1>
 
+<a href="https://diegoscavone.github.io/Intensivao-Stage-01-Stage-04/"> Visualize o projeto clicando aqui! </a>
+
 <p>🚀 Tecnologias </p>
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 <ul>
